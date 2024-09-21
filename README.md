@@ -1,1 +1,18 @@
-# Sensor-Resistivo-Medicao-da-Umidade-do-Solo
+# Sensor Resistivo: Medição da Umidade do Solo
+
+## Tabela de Resultados
+
+#### Para o Adubo
+
+| Queda de Tensão | Rsistência em ohms| Água em ml |
+|:---------------:|:-----------------:|:----------:|
+|      4,985      |       3.32M       |      0     |
+|      0,093      |       189,53      |      10    |
+|      0,087      |       177,08      |      20    |
+|      0,077      |       156,41      |      30    |
+|      0,069      |       139,93      |      40    |
+|      0,052      |       105,09      |      50    | 
+|      0,040      |       80,65       |      60    |
+|      0,026      |       52,27       |      70    |
+|      0,017      |       34,12       |      80    |
+|      0,008      |       16,03       |      90    |
